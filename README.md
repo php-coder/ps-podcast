@@ -1,4 +1,4 @@
-[![Telegram Chat](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/ps_podcast)
+[![Telegram Chat](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/pspodcast_group)
 
 ## Репозиторий для сбора тем
 
