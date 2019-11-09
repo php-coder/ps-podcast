@@ -1,3 +1,5 @@
+[![Telegram Chat](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/ps_podcast)
+
 ## Репозиторий для сбора тем
 
 Для сбора тем предлагается использовать issues. Для каждого выпуска будет
